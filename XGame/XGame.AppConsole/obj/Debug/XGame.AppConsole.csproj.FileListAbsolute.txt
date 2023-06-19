@@ -1,0 +1,10 @@
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe.config
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.exe
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\bin\Debug\XGame.AppConsole.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\bin\Debug\XGame.Domain.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csprojAssemblyReference.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CoreCompileInputs.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.csproj.CopyComplete
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.exe
+C:\workspace\criandoApisRobustas\XGame\XGame.AppConsole\obj\Debug\XGame.AppConsole.pdb
