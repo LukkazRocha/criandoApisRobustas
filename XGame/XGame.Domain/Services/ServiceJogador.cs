@@ -23,7 +23,39 @@ namespace XGame.Domain.Services
 
         public AutenticarJogadorResponse AutenticarJogador(AutenticarJogadorRequest request)
         {
-            throw new System.NotImplementedException();
+            if (request == null)
+            {
+                throw new Exception("AutenticarJogadorRequest é obrigatório");
+            }
+
+            if (string.IsNullOrEmpty(request.Email))
+            {
+                throw new Exception("Informe um e-mail");
+            }
+
+            if (IsEmail(request.Email))
+            {
+                throw new Exception("Informe um e-mail");
+            }
+
+            if (string.IsNullOrEmpty(request.Senha))
+            {
+                throw new Exception("Informe uma senha");
+            }
+
+            if (request.Senha.Length < 6)
+            {
+                throw new Exception("Digite uma senha de no mínimo 6 caracteres");
+            }
+
+            var response = _repositoryJogador.AutenticarJogador(request);
+
+            return response;
+        }
+
+        private bool IsEmail(string email)
+        {
+            return false;
         }
     }
 }
