@@ -14,23 +14,24 @@ namespace XGame.AppConsole
             var service = new ServiceJogador();
             Console.WriteLine("Criei instancia do serviço");
 
-            //AutenticarJogadorRequest request = new AutenticarJogadorRequest();
+            //var autenticarRequest = new AutenticarJogadorRequest();
             //Console.WriteLine("Criei instancia do meu objeto request");
-            //request.Email = "lucas@lucas.com";            
-            //request.Senha = "123456789";
+            //autenticarRequest.Email = "lucas@lucas.com";
+            //autenticarRequest.Senha = "123456789";
 
-            var request = new AdicionarJogadorRequest()
-            {
-                Email = "lucas@lucas.com",
-                PrimeiroNome = "Lucas",
-                UltimoNome = "Rocha",
-                Senha = "1234678"
-            };
+            //var adicionarRequest = new AdicionarJogadorRequest()
+            //{
+            //    Email = "lucas@lucas.com",
+            //    PrimeiroNome = "Lucas",
+            //    UltimoNome = "Rocha",
+            //    Senha = "1234678"
+            //};
 
+            //var response = service.AutenticarJogador(autenticarRequest);
 
-            var response = service.AdicionarJogador(request);
+            //var response2 = service.AdicionarJogador(adicionarRequest);
 
-            //var response = service.AutenticarJogador(request);
+            var result = service.ListarJogador();
 
             Console.WriteLine("Serviço é válido? " + service.IsValid());
 
