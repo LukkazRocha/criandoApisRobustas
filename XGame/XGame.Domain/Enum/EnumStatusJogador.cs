@@ -2,7 +2,7 @@
 {
     public enum EnumStatusJogador
     {
-        EmAndamento,
+        EmAnalise,
         Ativo,
         Bloqueado
     }
