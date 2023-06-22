@@ -1,0 +1,17 @@
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Infra.dll.config
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Infra.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Infra.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\EntityFramework.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Domain.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Domain.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\XGame.Domain.dll.config
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\EntityFramework.xml
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csprojAssemblyReference.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CoreCompileInputs.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CopyComplete
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.pdb
