@@ -51,7 +51,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\202306222016118_CriandoBanco.cs" />
+    <Compile Include="Migrations\202306222016118_CriandoBanco.designer.cs">
+      <DependentUpon>202306222016118_CriandoBanco.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202306222319079_MapeandoPlataforma.cs" />
+    <Compile Include="Migrations\202306222319079_MapeandoPlataforma.designer.cs">
+      <DependentUpon>202306222319079_MapeandoPlataforma.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Persistence\Map\MapPlataforma.cs" />
     <Compile Include="Persistence\Map\MapJogador.cs" />
     <Compile Include="Persistence\XGameContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -68,6 +77,14 @@
       <Project>{171C4512-50C1-40CA-BFC1-2EC753EFBCFF}</Project>
       <Name>XGame.Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202306222016118_CriandoBanco.resx">
+      <DependentUpon>202306222016118_CriandoBanco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202306222319079_MapeandoPlataforma.resx">
+      <DependentUpon>202306222319079_MapeandoPlataforma.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -15,3 +15,6 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CopyComplete
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.CriandoBanco.resources
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.GenerateResource.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.MapeandoPlataforma.resources
