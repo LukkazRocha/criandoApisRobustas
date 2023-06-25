@@ -31,7 +31,6 @@ namespace XGame.Domain.Entities
             Nome = nome;
             Email = email;
             Senha = senha;
-            Id = Guid.NewGuid();
             Status = EnumStatusJogador.EmAnalise;
 
             new AddNotifications<Jogador>(this)
@@ -54,8 +53,6 @@ namespace XGame.Domain.Entities
 
             AddNotifications(nome, email);
         }
-
-        public Guid Id { get; private set; }
 
         public Nome Nome { get; private set; }
 

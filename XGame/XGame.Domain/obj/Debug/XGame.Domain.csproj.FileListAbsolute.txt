@@ -1,10 +1,6 @@
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll.config
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\XGame.Domain.pdb
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\XGame.Domain.dll.config
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\System.AppContext.dll
@@ -25,6 +21,10 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\System.Security.Cr
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\System.Xml.ReaderWriter.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
-C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.Resources.Message.resources
 C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.GenerateResource.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CoreCompileInputs.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csproj.CopyComplete
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.pdb
+C:\workspace\criandoApisRobustas\XGame\XGame.Domain\obj\Debug\XGame.Domain.csprojAssemblyReference.cache

@@ -119,6 +119,7 @@
     <Compile Include="Interfaces\Arguments\IResponse.cs" />
     <Compile Include="Interfaces\Repositories\Base\IRepositoryBase.cs" />
     <Compile Include="Interfaces\Repositories\IRepositoryJogador.cs" />
+    <Compile Include="Interfaces\Services\Base\IServiceBase.cs" />
     <Compile Include="Interfaces\Services\IServiceJogador.cs" />
     <Compile Include="Interfaces\Services\IServicePlataforma.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
