@@ -62,9 +62,12 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Persistence\Map\MapPlataforma.cs" />
     <Compile Include="Persistence\Map\MapJogador.cs" />
+    <Compile Include="Persistence\Repositories\Base\RepositoryBase.cs" />
     <Compile Include="Persistence\Repositories\RepositoryJogador.cs" />
     <Compile Include="Persistence\XGameContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Transaction\IUnitOfWork.cs" />
+    <Compile Include="Transaction\UnitOfWork.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
