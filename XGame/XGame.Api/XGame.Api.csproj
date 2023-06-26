@@ -179,6 +179,8 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\Base\ControllerBase.cs" />
+    <Compile Include="Controllers\JogadorController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Secutiry\AuthorizationProvider.cs" />
     <Compile Include="StartUp.cs" />
@@ -196,6 +198,10 @@
     <ProjectReference Include="..\XGame.Domain\XGame.Domain.csproj">
       <Project>{171C4512-50C1-40CA-BFC1-2EC753EFBCFF}</Project>
       <Name>XGame.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XGame.Infra\XGame.Infra.csproj">
+      <Project>{F49FC17E-5246-4A42-ADB7-A8A02D43DFC8}</Project>
+      <Name>XGame.Infra</Name>
     </ProjectReference>
     <ProjectReference Include="..\XGame.Ioc\XGame.Ioc.csproj">
       <Project>{F657BC01-35D8-4352-9158-AE13F33647CB}</Project>

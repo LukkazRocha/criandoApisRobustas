@@ -1,4 +1,4 @@
-﻿namespace XGame.Infra.Transaction
+﻿namespace XGame.Infra.Transactions
 {
     public interface IUnitOfWork
     {

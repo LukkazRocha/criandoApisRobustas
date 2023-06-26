@@ -1,6 +1,6 @@
 ﻿using XGame.Infra.Persistence;
 
-namespace XGame.Infra.Transaction
+namespace XGame.Infra.Transactions
 {
     public class UnitOfWork : IUnitOfWork
     {

@@ -9,7 +9,7 @@ using XGame.Domain.Services;
 using XGame.Infra.Persistence;
 using XGame.Infra.Persistence.Repositories;
 using XGame.Infra.Persistence.Repositories.Base;
-using XGame.Infra.Transaction;
+using XGame.Infra.Transactions;
 
 namespace XGame.IoC.Unity
 {
