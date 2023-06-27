@@ -8,7 +8,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="XGame.Domain.Entities.MeuJogo">
-    <Position X="3.25" Y="3" Width="1.5" />
+    <Position X="3.25" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAEAAAABAAAAEAAAAAABAAAAAAAAAIAA=</HashCode>
       <FileName>Entities\MeuJogo.cs</FileName>
@@ -24,8 +24,8 @@
       <FileName>Entities\JogoPlataforma.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="Plataforma" />
       <Property Name="Jogo" />
+      <Property Name="Plataforma" />
     </ShowAsAssociation>
   </Class>
   <Class Name="XGame.Domain.Entities.Jogo">
@@ -38,7 +38,7 @@
   <Class Name="XGame.Domain.Entities.Jogador">
     <Position X="3.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAAAEACAAAAAAAAAAAAAAACAAAAAAAAAgAAACAAA=</HashCode>
+      <HashCode>AAAAAAAEACgAAAAEAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
       <FileName>Entities\Jogador.cs</FileName>
     </TypeIdentifier>
   </Class>

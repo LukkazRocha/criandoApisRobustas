@@ -33,6 +33,11 @@ namespace XGame.Domain.Services
 
             AddNotifications(jogador);
 
+            if (_repositoryJogador.Existe(x => x.Email.Endereco == request.Email))
+            {
+                AddNotification("E-mail", Message.JA_EXISTE_UM_X0_CHAMADO_X1.ToFormat("e-mail", request.Email));
+            }
+
             if (IsInvalid())
             {
                 return null;
@@ -98,7 +103,7 @@ namespace XGame.Domain.Services
         }
 
         public IEnumerable<JogadorResponse> ListarJogador()
-        {            
+        {
             return _repositoryJogador.Listar().ToList().Select(jogador => (JogadorResponse)jogador).ToList();
         }
 
