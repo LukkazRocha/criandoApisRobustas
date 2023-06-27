@@ -116,3 +116,8 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.pdb
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\EntityFramework.SqlServer.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\EntityFramework.SqlServer.xml
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\Swashbuckle.Core.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\System.Web.Http.WebHost.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\WebActivatorEx.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\System.Web.Http.WebHost.xml
