@@ -1,5 +1,3 @@
-C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.csprojAssemblyReference.cache
-C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.csproj.CoreCompileInputs.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\XGame.Ioc.dll.config
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\XGame.Ioc.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\XGame.Ioc.pdb
@@ -50,6 +48,8 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\System.Net.Http.Forma
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\System.Web.Http.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.csprojAssemblyReference.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.csproj.CoreCompileInputs.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.csproj.CopyComplete
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Ioc\obj\Debug\XGame.Ioc.pdb

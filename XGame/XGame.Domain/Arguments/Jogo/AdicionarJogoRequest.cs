@@ -5,8 +5,6 @@ namespace XGame.Domain.Arguments.Jogo
 {
     public class AdicionarJogoRequest : IRequest
     {
-        public Guid Id { get; set; }
-
         public string Nome { get; set; }
 
         public string Descricao { get; set; }

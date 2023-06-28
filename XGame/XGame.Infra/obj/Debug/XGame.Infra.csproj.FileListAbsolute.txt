@@ -31,6 +31,7 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Infra\bin\Debug\en-US\prmToolkit.No
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csprojAssemblyReference.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.CriandoBanco.resources
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.MapeandoPlataforma.resources
+C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.Migrations.Jogo.resources
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.GenerateResource.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CoreCompileInputs.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Infra\obj\Debug\XGame.Infra.csproj.CopyComplete

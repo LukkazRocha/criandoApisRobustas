@@ -206,6 +206,7 @@
   <ItemGroup>
     <Compile Include="App_Start\SwaggerConfig.cs" />
     <Compile Include="Controllers\Base\ControllerBase.cs" />
+    <Compile Include="Controllers\JogoController.cs" />
     <Compile Include="Controllers\JogadorController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Secutiry\AuthorizationProvider.cs" />

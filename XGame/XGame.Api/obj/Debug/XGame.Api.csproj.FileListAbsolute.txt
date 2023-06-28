@@ -1,5 +1,3 @@
-C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.csprojAssemblyReference.cache
-C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.csproj.CoreCompileInputs.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\XGame.Api.dll.config
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\XGame.Api.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\XGame.Api.pdb
@@ -123,6 +121,8 @@ C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\System.Web.Http.Owin.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\System.Web.Http.WebHost.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\bin\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.csprojAssemblyReference.cache
+C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.csproj.CoreCompileInputs.cache
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.csproj.CopyComplete
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.dll
 C:\workspace\criandoApisRobustas\XGame\XGame.Api\obj\Debug\XGame.Api.pdb

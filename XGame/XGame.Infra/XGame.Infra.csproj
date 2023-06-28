@@ -115,7 +115,12 @@
     <Compile Include="Migrations\202306222319079_MapeandoPlataforma.designer.cs">
       <DependentUpon>202306222319079_MapeandoPlataforma.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202306281850314_Jogo.cs" />
+    <Compile Include="Migrations\202306281850314_Jogo.designer.cs">
+      <DependentUpon>202306281850314_Jogo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Persistence\Map\MapJogo.cs" />
     <Compile Include="Persistence\Map\MapPlataforma.cs" />
     <Compile Include="Persistence\Map\MapJogador.cs" />
     <Compile Include="Persistence\Repositories\Base\RepositoryBase.cs" />
@@ -143,6 +148,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202306222319079_MapeandoPlataforma.resx">
       <DependentUpon>202306222319079_MapeandoPlataforma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202306281850314_Jogo.resx">
+      <DependentUpon>202306281850314_Jogo.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
